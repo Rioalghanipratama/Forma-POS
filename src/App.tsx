@@ -272,8 +272,8 @@ export default function App() {
         {/* Header */}
         <header className="p-4 lg:p-8 flex justify-between items-center lg:items-end border-b-2 border-forma-ink bg-forma-bg sticky top-0 z-30">
           <div>
-            <h1 className="text-xl lg:text-3xl font-black uppercase tracking-tighter leading-none">Forma POS</h1>
-            <p className="hidden lg:block text-[10px] uppercase tracking-widest font-black opacity-30 mt-1">CRM Integration</p>
+            <h1 className="text-xl lg:text-3xl font-black uppercase tracking-tighter leading-none">Andoli</h1>
+            <p className="hidden lg:block text-[10px] uppercase tracking-widest font-black opacity-30 mt-1">Anda Tumbas, Saya Doli</p>
           </div>
           
           <div className="flex items-center gap-4 lg:gap-8">
@@ -297,10 +297,10 @@ export default function App() {
 
             <div className="hidden lg:flex items-center gap-3 pl-8 border-l border-forma-ink border-dashed">
               <div className="text-right">
-                <p className="text-sm font-black leading-none">Imdadurrohman</p>
+                <p className="text-sm font-black leading-none">Alghaniii</p>
                 <p className="text-[10px] uppercase font-bold opacity-30">Admin</p>
               </div>
-              <div className="w-10 h-10 border-2 border-forma-ink flex items-center justify-center font-black">IR</div>
+              <div className="w-10 h-10 border-2 border-forma-ink flex items-center justify-center font-black">A</div>
             </div>
           </div>
         </header>
